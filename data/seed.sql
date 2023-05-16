@@ -2,7 +2,7 @@ USE stack_overflow;
 
 INSERT INTO users(id, username, password)
 VALUES
-("53e1deae-31da-4244-99e6-c0777da311b0", mayank", "$2a$10$9cQmVqe2Hz6aKX0YqYgvXeDKCbKHhj330ujNxDR7k/yubLoIWiswe"),
+("53e1deae-31da-4244-99e6-c0777da311b0", tyrese", "$2a$10$9cQmVqe2Hz6aKX0YqYgvXeDKCbKHhj330ujNxDR7k/yubLoIWiswe"),
 ("09c1a199-df9c-48f2-aa01-28511b19da36", "rithik", "$2a$10$/mA3np4tWg7hsj.Jl9SGmO9BglTllhZxnLrHI7ATWT4VoraU2KC7i"),
 ("6963eed1-0ae8-4b13-ba33-065a56c3ccef", "shubh", "$2a$10$d0n1G5dNVTfGJEvrSxRU9OZrABWQ9ICBL24lONWYWrIUFp11Fx6c."),
 ("202598e5-b90b-4002-9def-8d6b496c028a", "jaidev", "$2a$10$iIGjYwWQUtrSMuh9RVQYNupBalea0Q6qeBzrtHhlw/5bpWWeRscDe"),

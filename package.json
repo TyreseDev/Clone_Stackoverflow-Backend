@@ -8,7 +8,7 @@
     "server": "node index",
     "lint-check": "eslint -c .eslintrc.json . --ext .js"
   },
-  "author": "Mayank Aggarwal",
+  "author": "Tyrese Song",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",

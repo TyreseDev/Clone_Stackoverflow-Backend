@@ -1,4 +1,4 @@
-![Stackoverflow-Clone-Backend](https://socialify.git.ci/Mayank0255/Stackoverflow-Clone-Backend/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
+![Stackoverflow-Clone-Backend](https://socialify.git.ci/TyreseSong/Stackoverflow-Clone-Backend/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
 
 [![Version](https://img.shields.io/static/v1?label=version&message=2.0.0&color=blue)](https://shields.io/)
 [![NPM](https://img.shields.io/static/v1?label=npm&message=6.8.5&color=blue)](https://shields.io/)
@@ -16,7 +16,7 @@
 
 As the name suggests, this project is a clone of a famous Q/A website for professional and enthusiast programmers built solely by me using a completely different stack.
 
-This repo consists of the Backend code of the project, the backend code is in __[Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)__
+This repo consists of the Backend code of the project, the backend code is in __[Stackoverflow-Clone-Frontend](https://github.com/TyreseSong/Stackoverflow-Clone-Frontend)__
 
 ## My Tech Stack (MERN)
 
@@ -50,7 +50,7 @@ There are two ways to setup the project: manually or using the Dockerfile. Read 
    - Clone the code & install the modules-
 
      ```
-     git clone https://github.com/Mayank0255/Stackoverflow-Clone-Backend.git
+     git clone https://github.com/TyreseSong/Stackoverflow-Clone-Backend.git
      cd Stackoverflow-Clone-Backend
 
      npm install
@@ -71,7 +71,7 @@ There are two ways to setup the project: manually or using the Dockerfile. Read 
    - Clone the code & install the modules-
 
      ```
-     git clone https://github.com/Mayank0255/Stackoverflow-Clone-Frontend.git
+     git clone https://github.com/TyreseSong/Stackoverflow-Clone-Frontend.git
      cd Stackoverflow-Clone-Frontend
 
      npm install
